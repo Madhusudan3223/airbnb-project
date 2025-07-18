@@ -46,7 +46,6 @@ This project presents a comprehensive analysis of Airbnb listings in New York Ci
 ## 🛠 Tools Used
 
 - **Tableau Public** – For interactive dashboards and visual analytics  
-- **Python 
 - **GitHub** – For version control and sharing
 
 ---
